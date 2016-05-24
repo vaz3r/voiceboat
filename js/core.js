@@ -122,11 +122,11 @@ function createDownloadLink() {
 
         normal_circle1.onclick = deleteRecording;
         delete_button.onclick = deleteRecording;
-        send_button.onclick = uploadBlob;
+        send_button.onclick = uploadBlob(blob);
     });
 }
 
-function uploadBlob() {
+function uploadBlob(blob) {
     var fd = new FormData();
     fd.append('fileToUpload', blob);
     $.ajax({
