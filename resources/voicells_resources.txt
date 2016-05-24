@@ -1,0 +1,36 @@
+Python/Django Resources ===========================================================================
+https://godjango.com/35-upload-files/
+http://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example
+
+Payment Gateway ===========================================================================
+https://www.2checkout.com/pricing/?source=us&_ga=1.157923578.1959908167.1461927872
+https://www.braintreepayments.com/how-braintree-works
+https://www.bluepay.com/payment-processing/gateway/
+https://securionpay.com/pricing/
+
+Cloud Storage ===========================================================================
+https://www.backblaze.com/
+
+Mail Delivery ===========================================================================
+https://serversmtp.com/en/cart.php?systpl=turbo-smtp
+http://www.mailgun.com/pricing
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
+
+HTML5 Recorder ===========================================================================
+https://p5js.org/examples/examples/Sound__Record_Save_Audio.php
+https://github.com/cwilso/AudioRecorder
+
+Flash Recorder ===========================================================================
+http://www.jordansthings.com/blog/?p=5
+
+Audio Player ===========================================================================
+https://dribbble.com/shots/986354-Audio-player
+http://www.w3schools.com/html/html5_audio.asp
+https://www.google.dz/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=creating%20a%20custom%20audio%20player
+
+eCommerce ===========================================================================
+https://www.abetterlemonadestand.com/how-to-get-your-first-100-sales/
+
+Inspiration ===========================================================================
+http://grasshopper.com/
+https://speakpipe.uservoice.com/forums/144175-general/filters/top

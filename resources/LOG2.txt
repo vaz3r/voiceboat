@@ -1,0 +1,21 @@
+831 KB => 87.6 seconds
+x kilobytes => 60 seconds
+
+x = 569 KB in 1 minute
+
+1 minute = 569 KB
+
+--------------[Class C]-----------------
+3 minutes = 1707 KB
+1GB / 1707 = 585 Messages of 3 minutes
+1755 minutes of storage
+
+--------------[Class B]-----------------
+6 minutes = 3414 KB
+4GB / 3414 = 1171 Messages of 6 Minutes
+7026 minutes of storage
+
+--------------[Class A]-----------------
+9 minutes = 5121 KB
+10GB / 5121 = 1952 Messages of 9 Minutes
+17568 minutes of storage

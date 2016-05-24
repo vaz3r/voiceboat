@@ -1,0 +1,32 @@
+90 seconds ---> 700KB
+60 seconds ----> x KB
+
+x = 60 * 700 / 90 = 466KB
+
+1 minute = 466 KB
+
+--------------[Class C]-----------------
+3 minutes = 1398 kb
+1GB / 1398 = 715 Messages of 3 Minutes.
+2145 minutes of storage
+--------------[Class B]-----------------
+6 minutes = 2796 kb
+4GB / 2796 = 1430 Messages of 6 Minutes.
+8580 minutes of storage
+--------------[Class A]-----------------
+9 minutes = 4194 kb
+10gb / 4194 = 2384 Messages of 9 Minutes.
+21456 Minutes of storage
+----------------------------------------
+voicells.com
+trispeak.com
+voxpacket.com
+voiceller.com
+
+15 seconds pulse: 72bpm
+60 seconds pulse: 79bpm
+
+400 + 200 + 280 = 880$ for 135 users !
+- 60.75 + 34.32 = 95.07$
+
+NET = 784.93$

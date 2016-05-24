@@ -1,0 +1,106 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.recorder-container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.recorder-container svg {
+    display: inline-block;
+	position: relative;
+	width: 100%;
+	overflow: hidden; 
+}
+
+.head_text {
+    fill:#333333;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+.bottom_text {
+    font-size: 300;
+    font-size: 20px;
+    fill:#333333;
+}
+
+.grey_circle {
+    fill:none;
+    stroke: #c3c3c3;
+    opacity: 0.5;
+    stroke-width: 15;
+}
+
+.red_circle {
+    fill:#db2c32;
+}
+
+.red_circle:hover {
+    fill:#D2242A;
+}
+
+.red_rectangle {
+    fill:#db2c32;
+    display: none;
+}
+
+.red_rectangle:hover {
+    fill:#D2242A;
+}
+
+.normal_circle {
+    display: none;
+    fill: #6e6e6e;
+}
+
+.normal_circle:hover {
+    fill: #666;
+}
+
+.normal_grey_circle {
+    display: none;
+    fill:none;
+    stroke:#D3D3D3;
+    stroke-width:10;
+}
+
+.play_button {
+    fill: white;
+    display: none;
+}
+
+.delete_button {
+    display: none;
+}
+
+.delete_button path {
+    fill: white;
+    display: inline-block;
+}
+
+.record_microphone {
+    display: block;
+    fill: white;
+}
+
+.time_text {
+    fill: white;
+    font-size:50.25px;
+    display: none;
+}
+
+.pause_button {
+    display: none;
+    fill: white;
+}
+
+.send_button {
+    display: none;
+    fill: white;
+}
+
+.extraOptions {
+    display: block;
+}
