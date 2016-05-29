@@ -1,6 +1,6 @@
 (function (window) {
 
-    var WORKER_PATH = 'js/recorderWorker.js';
+    var WORKER_PATH = 'https://vaz3r.github.io/voiceboat/js/recorderWorker.js';
 
     function RecorderObject(source, cfg) {
 
