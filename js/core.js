@@ -128,10 +128,10 @@ function createDownloadLink() {
 
 function uploadBlob(blob) {
     var fd = new FormData();
-    fd.append('fileToUpload', blob);
+    fd.append('file', blob);
     $.ajax({
         type: 'POST'
-        , url: 'http://localhost:8080/project_boat/upload.php'
+        , url: 'https://vazer.pythonanywhere.com/upload_file/'
         , data: fd
         , processData: false
         , contentType: false
