@@ -131,7 +131,7 @@ function uploadBlob(blob) {
     fd.append('file', blob);
     $.ajax({
         type: 'POST'
-        , url: 'https://vazer.pythonanywhere.com/upload_file/'
+        , url: 'https://byteser.com/upload/upload_file'
         , data: fd
         , processData: false
         , contentType: false
